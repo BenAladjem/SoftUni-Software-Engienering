@@ -1,0 +1,8 @@
+m = int(input())
+n = int(input())
+print("Before:")
+print(f"a = {m}")
+print(f"b = {n}")
+print("After:")
+print(f"a = {n}")
+print(f"b = {m}")
