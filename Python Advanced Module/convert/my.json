@@ -1,0 +1,19 @@
+{
+   "response": {
+      "count": 1234567,
+      "items": [
+         {
+            "First name": "\u0422\u043e\u043c",
+            "ID": 123456,
+            "Last name": "Krus",
+            "Likes": 60
+         },
+         {
+            "First name": "Ben",
+            "ID": 987654,
+            "Last name": "Aladjem",
+            "Likes": 70
+         }
+      ]
+   }
+}
